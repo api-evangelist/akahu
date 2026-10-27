@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Akahu is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.akahu.nz/
+Akahu provides open banking and open finance infrastructure for New Zealand. It enables individuals and businesses to securely connect their financial accounts to trusted third‑party applications, offering APIs for account aggregation, payments, and data sharing while complying with local regulations and promoting financial innovation.
+
+**Areas:** Company · Finance · Open Banking · New Zealand · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.akahu.nz/)
+- [Documentation](https://developers.akahu.nz/docs)
+- [Getting started](https://developers.akahu.nz/docs/getting-started)
+- [Pricing](https://www.akahu.nz/pricing)
+- [Support](https://www.akahu.nz/contact)
+- [Blog](https://www.akahu.nz/newsroom)
+- [Terms of service](https://www.akahu.nz/developer-terms)
+- [Privacy policy](https://www.akahu.nz/end-user-terms)
+
+**APIs profiled:** 27
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/akahu/](https://apis.io/providers/akahu/).
